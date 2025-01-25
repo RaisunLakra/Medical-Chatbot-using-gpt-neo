@@ -15,3 +15,7 @@
 # text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, line_length=130, break_on_whitespace=False, chunk_overlap=100)
 
 # texts = text_splitter.split_documents(documents)
+
+from dotenv import load_dotenv
+
+load_dotenv()

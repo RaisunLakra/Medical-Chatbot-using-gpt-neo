@@ -12,3 +12,4 @@ ctransformers
 python-multipart
 aiofiles
 langchain_community
+pinecone
