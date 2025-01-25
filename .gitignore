@@ -3,3 +3,8 @@
 env3.11
 env3.11/*
 .ipynb_checkpoints/
+.ipynb_checkpoints/*
+*/.ipynb_checkpoints/*
+Notebook/.ipynb_checkpoints/
+Notebook/.ipynb_checkpoints/*
+*/Notebook/.ipynb_checkpoints/*
